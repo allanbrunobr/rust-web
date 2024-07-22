@@ -10,7 +10,7 @@ fn index () -> &'static str{
 
 #[get("/hi")]
 fn hi () -> &'static str{
-    "Hi Rocket"
+    "Hi Rocket, updating!"
 }
 
 #[launch]
