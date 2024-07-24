@@ -1,1 +1,9 @@
 target/
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/rust-tool/config.json
+/.idea/http-test/http-test.json
+/.idea/material_theme_project_new.xml
+/.idea/modules.xml
+/.idea/rust-web.iml
+/.idea/vcs.xml
