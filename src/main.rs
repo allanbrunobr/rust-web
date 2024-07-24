@@ -10,6 +10,7 @@ fn index() -> &'static str {
     "Hello Rocket"
 }
 
+
 #[get("/hi")]
 fn hi() -> &'static str {
     "Hi Rocket, updating!"
